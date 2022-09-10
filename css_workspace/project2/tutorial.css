@@ -1,0 +1,112 @@
+body {
+	
+	background-color : pink;
+	
+}
+
+#head2 {
+  text-align : center;
+  
+  color : yellow;
+  
+}
+
+#para {
+  color : blue;
+  
+  font-family : verdana;
+  
+  font-size : 14px;
+  
+}
+
+
+
+#tutorial {
+	
+		text-align : center;
+		
+		color : orange;
+		
+}
+
+#style {
+	
+	  color : gray;
+	  
+	  text-align : center;
+	  
+	  font-size : 12px;
+	  
+}
+
+#sheet {
+	
+	color : #be2596;
+	
+	font-family : Helvetica;
+	
+}
+
+
+.head {
+	
+	text-align : center;
+	
+	color : green;
+	
+}
+
+
+.para1 {
+	
+	 color :  #cc0052;
+	 
+	 font-family : calibri;
+	 
+	 font-size : 14px;
+	 
+}
+
+
+.para2 { 
+
+	 color : skyblue;
+	 
+	 text-align : right;
+	 
+}
+
+
+#head3, #vini1, #vini2, #vini3 {
+	
+ text-align : center;
+ 
+ color : gray;
+ 
+ font-size : 18px;
+ 
+}
+
+
+
+#head {
+	
+	background-color : #ffcccc;
+	
+	color : white;
+}
+ 
+ 
+#raj {
+	
+	background-color : red;
+	
+	color : grey;
+	
+	text-align : center;
+	
+}
+
+
+

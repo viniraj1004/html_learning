@@ -1,0 +1,16 @@
+body {
+    background-color: yellow;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+#vini {
+	font-size: 18px;
+	color: red;
+}
+#raj{
+	font-size: 18px;
+	color: blue;
+}
